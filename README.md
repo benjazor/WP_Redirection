@@ -9,4 +9,4 @@ Copy this function in your "functions.php", then create as many redirections as 
 wp_redirection( $link, $url );
 ```
 "$link" is the link you want to use for the redirection.  
-"$url" is the url you want to redirect the user too.
+"$url" is the url you want to redirect the user to.
